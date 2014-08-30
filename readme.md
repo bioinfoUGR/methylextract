@@ -11,6 +11,10 @@ MethylExtract is able to detect SNVs within High-Throughput Sequencing experimen
 
 **Artificial BS datasets:** http://bioinfo2.ugr.es/MethylExtract/downloads/ArtificialDatasets.tgz
 
+**Reference**
+
+Barturen G, Rueda A, Oliver JL and Hackenberg M (2014) MethylExtract: High-Quality methylation maps and SNV calling from whole genome bisulfite sequencing data [v2; ref status: indexed, http://f1000r.es/301] F1000Research 2014, 2:217 (doi:10.12688/f1000research.2-217.v2)
+
 
 
     
