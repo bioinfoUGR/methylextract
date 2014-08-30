@@ -5,7 +5,12 @@ Whole genome methylation profiling at a single cytosine resolution is now feasib
 
 We developed MethylExtract, a user friendly tool to generate i) high quality, whole genome methylation maps and ii) to detect sequence variation within the same sample preparation. The program is implemented into a single script and takes into account all major error sources. MethylExtract detects variation (SNVs – Single Nucleotide Variation) in a similar way than VarScan, a very sensitive method extensively used in SNP and genotype calling based on non-bisulfite treated reads. The usefulness of MethylExtract is shown by means of extensive benchmarking based on artificial BS reads and a comparison to a recently published method, Bis-SNP.
 
-MethylExtract is able to detect SNVs within High-Throughput Sequencing experiments of bisulfite treated DNA at the same time as it generates high quality methylation maps. This simultaneous detection of DNA methylation and sequence variation is crucial for many downstream analyses, for example when deciphering the impact of Single Nucleotide Variants on differential methylation. An exclusive feature of MethylExtract, in comparison with existing software, is the possibility to assess in a statistical way the bisulfite failure. The source code, tutorial and artificial BS datasets are available at: http://bioinfo2.ugr.es/MethylExtract/
+MethylExtract is able to detect SNVs within High-Throughput Sequencing experiments of bisulfite treated DNA at the same time as it generates high quality methylation maps. This simultaneous detection of DNA methylation and sequence variation is crucial for many downstream analyses, for example when deciphering the impact of Single Nucleotide Variants on differential methylation. An exclusive feature of MethylExtract, in comparison with existing software, is the possibility to assess in a statistical way the bisulfite failure. 
+
+**Examples:** http://bioinfo2.ugr.es/MethylExtract/downloads/Example.tgz
+
+**Artificial BS datasets:** http://bioinfo2.ugr.es/MethylExtract/downloads/ArtificialDatasets.tgz
+
 
 
     
