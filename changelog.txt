@@ -1,0 +1,24 @@
+##### MethylExtract_1.9 release ######
+
+http://bioinfo2.ugr.es/MethylExtract/
+Contact: rlebron@ugr.es
+
+- Release description -
+
+BUGS FIXED
+
+* Solved a bug that truncates output files when using a disordered multi-FASTA as reference genome file
+  (Thanks to Christoph Grunau for reporting the bug).
+
+* Solved a bug in reference genome parsing (folder or multi-FASTA file).
+
+MAIN SCRIPT IMPROVEMENT
+
+* Minor changes in the implementation.
+
+- Download instructions -
+
+Download MethylExtract.tar.gz
+tar -xf MethylExtract.tar.gz
+
+For further details see MethylExtract Manual within the release folder
