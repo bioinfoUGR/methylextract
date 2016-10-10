@@ -7,9 +7,9 @@ We developed MethylExtract, a user friendly tool to generate i) high quality, wh
 
 MethylExtract is able to detect SNVs within High-Throughput Sequencing experiments of bisulfite treated DNA at the same time as it generates high quality methylation maps. This simultaneous detection of DNA methylation and sequence variation is crucial for many downstream analyses, for example when deciphering the impact of Single Nucleotide Variants on differential methylation. An exclusive feature of MethylExtract, in comparison with existing software, is the possibility to assess in a statistical way the bisulfite failure. 
 
-**Examples:** http://bioinfo2.ugr.es/MethylExtract/downloads/Example.tgz
+**Examples:** http://bioinfo2.ugr.es/MethylExtract/downloads/Example.tar.gz
 
-**Artificial BS datasets:** http://bioinfo2.ugr.es/MethylExtract/downloads/ArtificialDatasets.tgz
+**Artificial BS datasets:** http://bioinfo2.ugr.es/MethylExtract/downloads/ArtificialDatasets.tar.gz
 
 **Reference**
 
